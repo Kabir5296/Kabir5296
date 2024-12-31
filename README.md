@@ -21,11 +21,13 @@
 ![Snake animation](https://github.com/kabir5296/kabir5296/blob/output/github-contribution-grid-snake.svg)
 
 <div align="center">
-  <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=kabir5296&hide_border=true&include_all_commits=true&count_private=true&theme=dark">
   <table>
     <tr>
       <td>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabir5296&theme=default&hide_border=true&langs_count=10&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="510">
+      </td>
+      <td>
+        <img width="670px" src="https://github-readme-activity-graph.vercel.app/graph?username=kabir5296&hide_border=true&include_all_commits=true&count_private=true&theme=dark">
       </td>
       <td>
         <img src="https://github-readme-stats.vercel.app/api?username=kabir5296&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="GitHub Stats" width="550">
