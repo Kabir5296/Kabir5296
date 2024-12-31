@@ -19,6 +19,7 @@
 </div>
 
 <div align="center">
+  <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=kabir5296&hide_border=true&include_all_commits=true&count_private=true&theme=dark">
   <table>
     <tr>
       <td>
@@ -30,7 +31,7 @@
     </tr>
   </table>
 
-  ![Snake animation](https://github.com/kabir5296/kabir5296/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/kabir5296/kabir5296/blob/output/github-contribution-grid-snake-dark.svg)
 
   <p style="font-size:150%; text-align:center;"><b>Thank You For Visiting My GitHub</b></p>
   <p style="font-size:100%; text-align:center;">If you find my work useful, don't forget to leave a <b>STAR</b>!</p>
