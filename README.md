@@ -16,8 +16,9 @@
   <a href="https://youtube.com/@mahfuzulkabirsourav9735">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube">
   </a>
-  ![Snake animation](https://github.com/kabir5296/kabir5296/blob/output/github-contribution-grid-snake.svg)
 </div>
+
+![Snake animation](https://github.com/kabir5296/kabir5296/blob/output/github-contribution-grid-snake.svg)
 
 <div align="center">
   <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=kabir5296&hide_border=true&include_all_commits=true&count_private=true&theme=dark">
