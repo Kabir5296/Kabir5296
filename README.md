@@ -16,6 +16,7 @@
   <a href="https://youtube.com/@mahfuzulkabirsourav9735">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube">
   </a>
+  ![Snake animation](https://github.com/kabir5296/kabir5296/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 <div align="center">
@@ -30,8 +31,6 @@
       </td>
     </tr>
   </table>
-
-  ![Snake animation](https://github.com/kabir5296/kabir5296/blob/output/github-contribution-grid-snake-dark.svg)
 
   <p style="font-size:150%; text-align:center;"><b>Thank You For Visiting My GitHub</b></p>
   <p style="font-size:100%; text-align:center;">If you find my work useful, don't forget to leave a <b>STAR</b>!</p>
