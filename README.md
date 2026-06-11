@@ -1,9 +1,8 @@
 <div align="center">
   <p style="font-size:250%; text-align:center;"><b>Hello, I'm Kabir!</b></p>
   <img src="./images/cover.jpg" alt="Kabir.jpg" width="100%"> <br>
-  I'm a <b>Machine Learning Engineer</b><br>
-  I work at <b>ACI Limited</b><br>
-  I also overview and manage projects at <b>Intelsense Ai</b><br>
+  I'm a PhD student at New Jersey Institute of Technology (NJIT)<br>
+  I'm currently working with Diffusion Models.<br>
   To know more, visit <b><a href='https://www.mahfuzulkabir.com'>mahfuzulkabir.com</a></b> <br>
   <br>
   Find me on socials: <br>
